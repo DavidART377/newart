@@ -1,0 +1,527 @@
+a:visited{
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a:link {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a:hover{
+color: #88EEA7;
+text-decoration: none;
+}
+
+a:active{
+color: blue;
+text-decoration: none;
+}
+
+
+
+
+body {
+background-color:#032133;
+}
+
+
+.main {
+  display: grid;
+  grid-template-columns: 0.2fr 0.2fr 0.2fr;
+  text-align: center;
+  padding-left: 530px;
+
+}
+
+
+.container {
+font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.information{
+color: #FFFFFF;
+}
+
+.menu {
+color: #FFFFFF;
+}
+
+.poem{
+color: #FFFFFF;
+}
+
+
+.ambas {
+padding-left: 500px;
+position: absolute;
+padding-top: 120px;
+color: #FFFFFF;
+z-index: 1;
+}
+
+
+.outside {
+padding-left: 400px;
+opacity: 0.5;
+position: absolute;
+}
+
+.history{
+position: absolute;
+color: #FFFFFF;
+padding-top: 400px;
+padding-left: 600px;
+font-size: 25px;
+}
+
+
+.historye{
+position: absolute;
+color: #FFFFFF;
+padding-top: 500px;
+width: 800px;
+text-align: center;
+padding-left: 500px;
+}
+
+
+.poemtwo {
+position: absolute;
+color: #FFFFFF;
+padding-left: 880px;
+padding-top: 940px;
+}
+
+.come {
+position: absolute;
+color: #FFFFFF;
+padding-left: 650px;
+padding-top: 840px;
+font-size: 25px;
+
+}
+
+.poemw {
+position: absolute;
+color: #FFFFFF;
+padding-left: 500px;
+padding-top: 1000px;
+width: 800px;
+text-align: center;
+
+}
+
+.footer {
+padding-left: 400px;
+opacity: 0.4;
+position: absolute;
+padding-top: 1270px;
+
+
+}
+
+
+.hourst {
+position: absolute;
+color: #FFFFFF;
+padding-top: 1300px;
+padding-left: 650px;
+font-size: 14px;
+}
+
+.hours {
+position: absolute;
+color: #FFFFFF;
+padding-top: 1370px;
+padding-left: 770px;
+width: 240px;
+text-align: center;
+}
+
+
+.phone {
+color: #FFFFFF;
+position: absolute;
+padding-top: 1440px;
+padding-left: 800px;
+}
+
+.add {
+color: #FFFFFF;
+position: absolute;
+padding-top: 1380px;
+padding-left: 430px;
+text-align: left;
+width: 160px;
+font-size: 20px;
+}
+
+.media {
+color: #FFFFFF;
+position: absolute;
+padding-top: 1370px;
+padding-left: 1080px;
+font-size: 16px;
+text-align:right;
+width: 300px;
+}
+
+.maintwo {
+display: grid;
+grid-template-columns: 0.3fr 0.3fr 0.3fr;
+text-align: center;
+padding-left: 220px;
+font-size: 10px;
+
+}
+
+
+.mainthree {
+display: grid;
+grid-template-columns: 0.3fr 0.3fr 0.3fr;
+text-align: center;
+padding-left: 810px;
+font-size: 10px;
+
+}
+
+.pizzapic {
+padding-top: 80px;
+padding-left: 370px;
+opacity: 0.4;
+position: absolute;
+}
+
+.pizzaword {
+color: #FFFFFF;
+position: absolute;
+font-size: 70px;
+padding-left: 580px;
+padding-top: 20px;
+}
+
+
+.pizzaunder {
+  color: #FFFFFF;
+  position: absolute;
+  font-size: 10px;
+  padding-left: 610px;
+  padding-top: 240px;
+}
+
+.pizzamenu {
+color: #FFFFFF;
+position: absolute;
+text-align: center;
+width: 1000px;
+padding-left: 450px;
+padding-top: 400px;
+}
+
+.pastapic {
+padding-top: 1350px;
+padding-left: 370px;
+opacity: 0.4;
+position: absolute;
+
+}
+
+.pastaword {
+color: #FFFFFF;
+position: absolute;
+font-size: 70px;
+padding-left: 710px;
+padding-top: 1300px;
+}
+
+
+
+
+.pastaunder {
+color: #FFFFFF;
+position: absolute;
+font-size: 10px;
+padding-left: 520px;
+padding-top: 1510px;
+text-align: center;
+width: 900px;
+}
+
+
+
+.pastamenu {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  width: 1000px;
+  padding-left: 450px;
+  padding-top: 1680px;
+
+}
+
+
+
+
+
+.appspic {
+  padding-top: 2120px;
+  padding-left: 370px;
+  opacity: 0.4;
+  position: absolute;
+
+}
+
+.appsword {
+color: #FFFFFF;
+position: absolute;
+font-size: 70px;
+padding-left: 560px;
+padding-top: 2100px;
+}
+
+.appsmenu {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  width: 1000px;
+  padding-left: 450px;
+  padding-top: 2440px;
+
+}
+
+
+
+.saladpic {
+  padding-top: 3100px;
+  padding-left: 370px;
+  opacity: 0.4;
+  position: absolute;
+
+}
+
+.saladword {
+color: #FFFFFF;
+position: absolute;
+font-size: 70px;
+padding-left: 680px;
+padding-top: 3040px;
+}
+
+
+
+.saladunder {
+color: #FFFFFF;
+position: absolute;
+font-size: 10px;
+padding-left: 520px;
+padding-top: 3250px;
+text-align: center;
+width: 900px;
+}
+
+
+.saladmenu {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  width: 1000px;
+  padding-left: 450px;
+  padding-top: 3380px;
+
+}
+
+
+.sandpic {
+  padding-top: 4100px;
+  padding-left: 370px;
+  opacity: 0.4;
+  position: absolute;
+
+}
+
+.sandword {
+color: #FFFFFF;
+position: absolute;
+font-size: 70px;
+padding-left: 500px;
+padding-top: 4050px;
+}
+
+
+
+.sandunder {
+color: #FFFFFF;
+position: absolute;
+font-size: 10px;
+padding-left: 520px;
+padding-top: 4280px;
+text-align: center;
+width: 900px;
+}
+
+
+.sandmenu {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  width: 1000px;
+  padding-left: 450px;
+  padding-top: 4380px;
+
+}
+
+
+
+
+
+
+.cockpic {
+  padding-top: 5700px;
+  padding-left: 370px;
+  opacity: 0.4;
+  position: absolute;
+
+}
+
+.cockword {
+color: #FFFFFF;
+position: absolute;
+font-size: 70px;
+padding-left: 560px;
+padding-top: 5640px;
+}
+
+
+
+.cockunder {
+color: #FFFFFF;
+position: absolute;
+font-size: 10px;
+padding-left: 520px;
+padding-top: 5860px;
+text-align: center;
+width: 900px;
+}
+
+
+.cockmenu {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  width: 1000px;
+  padding-left: 450px;
+  padding-top: 6000px;
+
+}
+
+
+
+
+
+
+
+.footertwo {
+padding-left: 350px;
+opacity: 0.4;
+position: absolute;
+padding-top: 7300px;
+
+
+}
+
+
+.hourstwo {
+position: absolute;
+color: #FFFFFF;
+padding-top: 7320px;
+padding-left: 700px;
+font-size: 14px;
+}
+
+.hoursthree {
+position: absolute;
+color: #FFFFFF;
+padding-top: 7380px;
+padding-left: 830px;
+width: 240px;
+text-align: center;
+}
+
+
+.phonetwo {
+color: #FFFFFF;
+position: absolute;
+padding-top: 7460px;
+padding-left: 860px;
+}
+
+.addtwo {
+color: #FFFFFF;
+position: absolute;
+padding-top: 7380px;
+padding-left: 380px;
+text-align: left;
+width: 160px;
+font-size: 20px;
+}
+
+.mediatwo {
+color: #FFFFFF;
+position: absolute;
+padding-top: 7390px;
+padding-left: 1230px;
+font-size: 16px;
+text-align:right;
+width: 300px;
+}
+
+
+.final {
+
+padding-top: 760px;
+
+
+}
+
+
+
+.takepic {
+  padding-top: 7300px;
+  padding-left: 370px;
+  opacity: 0.4;
+  position: absolute;
+
+}
+
+.takeword {
+color: #FFFFFF;
+position: absolute;
+font-size: 50px;
+padding-left: 480px;
+padding-top: 7280px;
+}
+
+
+
+.takeunder {
+color: #FFFFFF;
+position: absolute;
+font-size: 10px;
+padding-left: 520px;
+padding-top: 7460px;
+text-align: center;
+width: 900px;
+}
+
+
+.takemenu {
+  color: #FFFFFF;
+  position: absolute;
+  text-align: center;
+  width: 1000px;
+  padding-left: 450px;
+  padding-top: 7550px;
+
+}
